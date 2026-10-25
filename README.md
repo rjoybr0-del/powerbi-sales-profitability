@@ -8,7 +8,7 @@ A two-page interactive report exploring sales performance, product profitability
 
 ![Sales Overview](Screenshots/Sales_Overview.png)
 
-![Product Analysis](Screenshots/Product_Analysis.png)
+![Product Analysis](Screenshots/Product_analysis.png)
 
 ## Business Questions
 
